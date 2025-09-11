@@ -3,7 +3,7 @@
 Welcome to the **CSE115L Programming Language I Lab** repository!  
 This repository is dedicated to organizing and documenting all materials, resources, and updates related to the Programming Language I Laboratory course.  
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY-NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY‑NC 4.0](https://img.shields.io/badge/License‑CC%20BY‑NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
@@ -198,11 +198,13 @@ The lab instructor reserves the right to make necessary changes to the syllabus,
 
 ## 📜 License
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY-NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY‑NC 4.0](https://img.shields.io/badge/License‑CC%20BY‑NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 This repository and its contents are licensed under a  
-[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+[Creative Commons Attribution‑NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 © 2025 Mosroor Mofiz Arman. Commercial use requires prior written permission.  
 
 For commercial use requests, please contact me via my [GitHub profile](https://github.com/mosroormofizarman).
+
+
