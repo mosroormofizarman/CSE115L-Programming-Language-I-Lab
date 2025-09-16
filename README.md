@@ -22,7 +22,7 @@ This repository is organized into the following folders:
 
 - **Course Code:** CSE115L  
 - **Course Title:** Programming Language I Lab  
-- **Faculty:** [Mirza Mohammad Lutfe Elahi (MLE)](https://ece.northsouth.edu/~lutfe.elahi/)  
+- **Faculty:** [Mirza Mohammad Lutfe Elahi(MLE)](https://ece.northsouth.edu/~lutfe.elahi/)  
 - **Lab Officer:** [Ashik Mostafa Alvi](https://sites.google.com/northsouth.edu/alvi)  
 - **Department:** Electrical and Computer Engineering  
 - **Program:** Undergraduate  
@@ -142,7 +142,7 @@ By the end of the course, students will be able to:
 ## 👨‍🏫 Instructor Details
 
 ### Faculty Member
-- **[Mirza Mohammad Lutfe Elahi](https://ece.northsouth.edu/~lutfe.elahi/)** - Office: SAC 922  
+- **[Mirza Mohammad Lutfe Elahi(MLE)](https://ece.northsouth.edu/~lutfe.elahi/)** - Office: SAC 922  
 
 ### Lab Officer
 - **Name:** [Ashik Mostafa Alvi](https://sites.google.com/northsouth.edu/alvi)  
